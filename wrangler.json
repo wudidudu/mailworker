@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "mailworker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "9b78b0ef-5a9f-4e14-bfef-f7ef61899e86",
+			"database_name": "mail_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
